@@ -1,4 +1,7 @@
 # GUIDE
+Application was created as a part of job application for Wolt internship 2023.
+
+
 In order to run application, write "sbt run" in your terminal.
 Application is running on http://localhost:9000/delivery 
 You can see there default zero values assigned to variables,
